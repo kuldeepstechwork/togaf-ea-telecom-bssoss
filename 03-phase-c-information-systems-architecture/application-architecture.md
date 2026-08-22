@@ -22,9 +22,9 @@ The to-be application architecture introduces three new components aligned to TM
 |---|---|---|
 | **Product Catalog Platform** (new) | Core Commerce Management — Product Catalog | Single authoritative product/pricing/bundle definition, exposed via Open API to all channels and to Order Orchestration |
 | **Order Orchestration Platform** (new) | Production — Order Management | Order lifecycle management, decomposition, and cross-domain fulfillment orchestration |
-| **API Gateway / Strangler Layer** (new) | Integration — API Management | Enforces P-02 (Open API standard) and P-10 (integration inventory); the single ingress/egress point between new and legacy applications |
+| **API Gateway / Strangler Layer** (new) | Common Domain — API/Integration Management | Enforces P-02 (Open API standard) and P-10 (integration inventory); the single ingress/egress point between new and legacy applications |
 | **Billing System** (retained) | Core Commerce Management — Billing (financial ledger only) | Reached only via API through the gateway; internal product-table logic deprecated in favor of the Product Catalog platform, per the migration plan in Phase F |
-| **CRM System** (retained) | Party Management / Engagement Management | Becomes a consumer of the Customer Domain service and Order Orchestration rather than an independent order/product source |
+| **CRM System** (retained) | Party Management (Engaged Party) | Becomes a consumer of the Customer Domain service and Order Orchestration rather than an independent order/product source |
 | **Network Inventory System** (retained) | Production — Resource Management | Exposed via API for capacity checks and activation, replacing manual work-order tickets for standard configurations |
 | **Customer Domain Service** (new) | Party Management — Customer | Single authoritative customer record; CRM and Billing become consumers |
 
