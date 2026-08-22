@@ -39,9 +39,9 @@ This evaluation covers the combined **Product Catalog Platform** and **Order Orc
 | Lock-in / exit cost | 10% | 2 | 4 | 3 | 3 |
 | Reference base in telecom | 5% | 5 | 3 | 3 | 4 |
 | Partner/SI ecosystem | 5% | 5 | 3 | 3 | 3 |
-| **Weighted Total (out of 5)** | | **2.85** | **4.35** | **3.55** | **3.05** |
+| **Weighted Total (out of 5)** | | **3.00** | **4.30** | **3.50** | **3.05** |
 
-*(Weighted total = Σ(criterion score × weight); e.g., Vendor B = 5(.20)+5(.20)+4(.15)+4(.15)+4(.10)+4(.10)+3(.05)+3(.05) = 1.00+1.00+0.60+0.60+0.40+0.40+0.15+0.15 = 4.30, rounded to 4.35 accounting for minor sub-criterion adjustments recorded in the full scoring worksheet.)*
+*(Weighted total = Σ(criterion score × weight); e.g., Vendor B = 5(.20)+5(.20)+4(.15)+4(.15)+4(.10)+4(.10)+3(.05)+3(.05) = 1.00+1.00+0.60+0.60+0.40+0.40+0.15+0.15 = 4.30.)*
 
 ## Recommendation: Vendor B — Northolt BSS Cloud
 
