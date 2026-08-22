@@ -1,6 +1,6 @@
 # Brenmark Telecom — BSS/OSS Modernization: A TOGAF ADM Case Study
 
-**Disclaimer:** This repository is a fictional Enterprise Architecture case study created for portfolio and demonstration purposes. Brenmark Telecom is an invented company — it is not a real organization, and nothing here describes, discloses, or is derived from the systems, data, or intellectual property of any real employer, client, or company, past or present. All figures, architectures, vendor comparisons, and cost estimates are illustrative, created for this exercise, and do not represent real financial or technical data. Any resemblance to actual companies, products, or systems is coincidental.
+**Disclaimer:** This is an illustrative TOGAF Enterprise Architecture case study modeling common, publicly known challenges in telecom BSS/OSS modernization — not a real engagement. Brenmark Telecom is an invented name, not affiliated with any real company, and nothing here is based on confidential information from any real employer or client. All figures, vendor names, and technical details are constructed for this exercise.
 
 ---
 
@@ -42,5 +42,4 @@ Start with [`TOGAF-ADM-MAPPING.md`](./TOGAF-ADM-MAPPING.md) for a one-page map o
 See [`TOGAF-ADM-MAPPING.md`](./TOGAF-ADM-MAPPING.md) for the full phase-by-phase index.
 
 ---
-
 *Fictional case study — see disclaimer above for full context.*
