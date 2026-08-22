@@ -5,7 +5,7 @@
 
 ## Summary
 
-The modernization program requires an estimated **$18.4M** in capital investment over 18 months, plus an estimated **15% ongoing operational overhead** on affected systems during a ~24-month dual-write transition period (see ADR-004). Against this, the program is projected to deliver **$31.2M** in combined cost-avoidance and new-revenue benefit over a 3-year horizon, for a **net 3-year benefit of $12.8M** and a **payback period of approximately 22 months** from program start. The largest single benefit driver is new converged-bundle and 5G-slice revenue, not cost savings — this is a growth investment, not primarily a cost-reduction program.
+The modernization program requires an estimated **$18.4M** in capital investment over 18 months, plus an estimated **15% ongoing operational overhead** on affected systems during a ~24-month dual-write transition period (see ADR-004). Against this, the program is projected to deliver **$50.7M** in combined cost-avoidance ($27.4M — already net of the capex and transition opex above, since both are included in the To-Be cost totals used to compute it) and new-revenue benefit ($23.3M) over a 3-year horizon, for a **net 3-year benefit of approximately $50.7M relative to as-is** and a **payback period of approximately 22 months** from program start. The largest single benefit driver is new converged-bundle and 5G-slice revenue, not cost savings — this is a growth investment, not primarily a cost-reduction program.
 
 ## Capex/Opex Line Items
 
@@ -46,7 +46,7 @@ The modernization program requires an estimated **$18.4M** in capital investment
 | 5G network-slice monetization | Slice product launches month 16 (within 18-month mandate); enterprise/IoT slice customers ramp to 40 accounts by end Y2, 120 by end Y3, avg. $18K/account/yr | $0.1M | $0.7M | $2.2M |
 | **Total incremental revenue** | | **$1.8M** | **$8.5M** | **$13.0M** |
 
-Three-year cumulative incremental revenue: **$23.3M**. Combined with the $27.4M TCO improvement above, gross 3-year benefit is approximately **$50.7M**; net of the $18.4M capex and the $5.2M transition opex already reflected in the TCO comparison, the **net 3-year benefit is approximately $12.8M** relative to as-is total spend, once the $18.4M capex is treated as incremental investment against the $53.4M as-is baseline plus the $23.3M revenue opportunity the as-is path forgoes entirely.
+Three-year cumulative incremental revenue: **$23.3M**. The $27.4M TCO improvement above is already net of the $18.4M capex and the $5.2M transition opex, since both are included in the To-Be cost totals used to compute it — no further subtraction of capex/opex is needed. Combining the $27.4M TCO improvement with the $23.3M incremental revenue gives a **net 3-year benefit of approximately $50.7M** relative to the as-is baseline of a $53.4M run cost with no ability to sell converged bundles or slices at all.
 
 ## Payback Period (Shown as Arithmetic)
 
